@@ -23,7 +23,7 @@ Some other useful links:
 
 * [Code](https://www.github.com/fdcl-gwu/asteroid_dumbbell)
 * [Presentation](https://github.com/skulumani/2018_aas_presentation)
-* [Blog Post]()
+* [Blog Post](https://shankarkulumani.com/2018/09/2018aas)
 
 ## Bibtex
 
