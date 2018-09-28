@@ -3,7 +3,7 @@
 | [![Travis][travis_shield]][travis]       | [![Github Release][release_shield]][github_release] | [![Github Version][version_shield]][github_version] | [![Github Last Commit][last_commit_shield]][github_last_commit] | [![Github commit activity][activity_shield]][github_activity] |
 
 
-[travis_shield]: https://travis-ci.org/skulumani/2018_aas_abstract.svg?branch=master
+[travis_shield]: https://travis-ci.org/skulumani/2018_aas_manuscript.svg?branch=master
 [release_shield]: https://img.shields.io/github/release/skulumani/2018_aas_abstract.svg
 [version_shield]: https://badge.fury.io/gh/skulumani%2F2018_aas_abstract.svg
 [last_commit_shield]: https://img.shields.io/github/last-commit/skulumani/2018_aas_abstract.svg
